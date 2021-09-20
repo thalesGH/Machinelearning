@@ -1,2 +1,2 @@
 # Machinelearning
-AI Experiments
+AI Experiments in Machine learning and predictive modeling using public datasets 
